@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T10:17:15.627Z",
-  "count": 1,
+  "generatedAt": "2026-11-01T08:46:37.489Z",
+  "count": 2,
   "presentations": [
     {
       "slug": "before-you-join-it",
@@ -20,6 +20,24 @@
       "theme": "default",
       "draft": false,
       "href": "/before-you-join-it/?present=1"
+    },
+    {
+      "slug": "solid-with-react",
+      "title": "SOLID with React",
+      "description": "Workshop on applying SOLID in React — composition, hooks, and boundaries with bad vs good examples.",
+      "category": "technical",
+      "tags": [
+        "react",
+        "solid",
+        "architecture",
+        "clean-code"
+      ],
+      "duration": "75m",
+      "level": "intermediate",
+      "author": "MentorBridge",
+      "theme": "default",
+      "draft": false,
+      "href": "/solid-with-react/?present=1"
     }
   ]
 }

@@ -7,6 +7,7 @@ A multi-deck [Slidev](https://sli.dev/) workspace for Mentor Bridge engineering 
 | Topic | Slug | Run |
 | --- | --- | --- |
 | Before You Join IT: Build Your Professional Toolset | `before-you-join-it` | `pnpm dev before-you-join-it` |
+| SOLID with React | `solid-with-react` | `pnpm dev solid-with-react` |
 
 ## Quick start
 
